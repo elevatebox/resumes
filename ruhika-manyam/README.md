@@ -1,6 +1,6 @@
 **Name:** Ruhika Manyam
 
-**Resume Link:** 'resumes/ruhika-manyam/'
+**Resume Link:** "resumes/ruhika-manyam/Ruhika_Manyam.pdf"
 
 **Feedback Requested:** I want feedback on the current formatting and the design of my resume.
 
